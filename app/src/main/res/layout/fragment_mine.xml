@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#f2f2f2"
+    android:orientation="vertical" >
+
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbarStyle="outsideOverlay" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:id="@+id/mine_modify_userinfo_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="34dp"
+                android:clickable="true"
+                android:background="#ffffff"
+                android:gravity="center_vertical" >
+
+                <com.imsdk.imdeveloper.ui.view.RoundedCornerImageView
+                    android:id="@+id/mine_mainphoto_imageview"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:layout_margin="8dp"
+                    android:src="@drawable/news_head_man" />
+
+                <TextView
+                    android:id="@+id/mine_name_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_toRightOf="@id/mine_mainphoto_imageview"
+                    android:text="子龙"
+                    android:textColor="#000"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/mine_location_textview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/mine_mainphoto_imageview"
+                    android:layout_marginBottom="15dp"
+                    android:layout_toRightOf="@id/mine_mainphoto_imageview"
+                    android:text="地区：蜀国"
+                    android:textColor="#999999"
+                    android:textSize="14sp" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:clickable="true"
+                    android:scaleType="matrix"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/arrow_right" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_jiaowu"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/shezhi_top_bg" >
+
+                <TextView
+                    android:id="@+id/text_jiaowu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13.5dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/jiaowu"
+                    android:textColor="#565555"
+                    android:textSize="16sp" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/shezhi_top_bg"
+                    android:layout_toRightOf="@+id/text_jiaowu"
+                    android:layout_toEndOf="@+id/text_jiaowu">
+
+                    <ImageView
+                        android:id="@+id/arrow_jiaowu"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ziliaobianji_jiantou_icon" />
+
+                    <TextView
+                        android:id="@+id/jiaowu_textview"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toLeftOf="@id/arrow_jiaowu"
+                        android:text=""
+                        android:singleLine="true"
+                        android:ellipsize="end"
+                        android:textColor="#999999"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layout_fujin"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/shezhi_top_bg" >
+
+                <TextView
+                    android:id="@+id/text_fujin"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="13.5dp"
+                    android:gravity="center_vertical"
+                    android:text="@string/fujin"
+                    android:textColor="#565555"
+                    android:textSize="16sp" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/shezhi_top_bg"
+                    android:layout_toRightOf="@+id/text_fujin"
+                    android:layout_toEndOf="@+id/text_fujin">
+
+                    <ImageView
+                        android:id="@+id/arrow_fujin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:contentDescription="@string/app_name"
+                        android:src="@drawable/ziliaobianji_jiantou_icon" />
+
+                    <TextView
+                        android:id="@+id/jiaowu_fujin"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="10dp"
+                        android:layout_toLeftOf="@id/arrow_fujin"
+                        android:text=""
+                        android:singleLine="true"
+                        android:ellipsize="end"
+                        android:textColor="#999999"
+                        android:textSize="16sp" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <View
+			    android:layout_width="match_parent"
+			    android:layout_height="1px"
+			    android:layout_marginLeft="8dp"
+			    android:background="#dddddd"/>
+
+            <View
+			    android:layout_width="match_parent"
+			    android:layout_height="1px"
+			    android:layout_marginLeft="8dp"
+			    android:background="#dddddd"/>
+            <!-- *********************************************************************** -->
+
+            <Button
+                android:id="@+id/mine_logout_btn"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="14dp"
+                android:layout_marginTop="54dp"
+                android:background="@drawable/btn_logout"
+                android:gravity="center"
+                android:padding="4dp"
+                android:text="退出登录"
+                android:textColor="#000"
+                android:textSize="22dp" />
+            
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

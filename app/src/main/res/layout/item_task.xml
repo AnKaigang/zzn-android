@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="65dp"
+	    android:background="@drawable/mm_listitem"
+	    android:gravity="center_vertical"
+	    android:orientation="horizontal" >
+    
+        <ImageView
+	        android:id="@+id/task_icon"
+	        android:layout_width="55dp"
+	        android:layout_height="55dp"
+	        android:layout_margin="5dp"
+	        android:src="@drawable/task" />
+	
+	    <TextView
+	        android:id="@+id/task_name"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:padding="7dp"
+			android:layout_gravity="center"
+	        android:text="YoungForYou晚会"
+	        android:textColor="#000"
+			android:layout_centerVertical="true"
+			android:layout_toRightOf="@+id/task_icon"
+			android:layout_toEndOf="@+id/task_icon" />
+		<TextView
+			android:id="@+id/task_time"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:padding="7dp"
+			android:text="2015-12-19"
+			android:textColor="#000"
+			android:layout_alignTop="@+id/task_name"
+			android:layout_alignParentRight="true"
+			android:layout_alignParentEnd="true" />
+    </RelativeLayout>
+
+    <View 
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#dddddd"/>
+    
+</LinearLayout>

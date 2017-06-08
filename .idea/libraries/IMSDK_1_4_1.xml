@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IMSDK_1.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/IMSDK_1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

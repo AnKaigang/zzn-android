@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.imsdk.imdeveloper.ui.activity.PushDetailActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_marginTop="0px"
+        android:layout_height="50dp"
+
+        android:background="@android:color/background_dark" >
+
+        <TextView
+            android:id="@+id/mid"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="通知详情"
+            android:textColor="@android:color/white"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/titlebar_logo"
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/arrow_back" />
+
+        <TextView
+            android:id="@+id/left"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_toLeftOf="@id/mid"
+            android:layout_toRightOf="@id/titlebar_logo"
+            android:ellipsize="end"
+            android:gravity="left|center_vertical"
+            android:singleLine="true"
+            android:text="返回"
+            android:textColor="@android:color/white"
+            android:textSize="15sp" />
+    </RelativeLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="90px"
+            android:orientation="horizontal"
+            android:paddingLeft="30px"
+            android:paddingRight="30px"
+            android:layout_marginTop="50px">
+            <TextView
+                android:layout_width="180px"
+                android:layout_height="70px"
+                android:textSize="50px"
+                android:text="标题："/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="50px"
+                android:id="@+id/pushDetailTitle"
+                android:text="标题："/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="30px"
+            android:paddingRight="30px"
+            android:orientation="horizontal">
+                <TextView
+                    android:layout_width="180px"
+                    android:layout_height="wrap_content"
+                    android:textSize="45px"
+                    android:text="内容："/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="45px"
+                    android:id="@+id/pushDetailContent"
+                    android:text="123" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/btn_surePush"
+                android:layout_marginLeft="200dp"
+                android:layout_width="150dp"
+                android:layout_marginTop="30dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_denglu"
+                android:textSize="22dp"
+                android:padding="8dp"
+                android:text="确认收到" />
+        </LinearLayout>
+
+</LinearLayout>

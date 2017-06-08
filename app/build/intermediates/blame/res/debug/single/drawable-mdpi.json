@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_message.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_message.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_me.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_me.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_me_selected.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_me_selected.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/news_bg.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/news_bg.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/page_indicator_focused.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/page_indicator_focused.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/indicator_arrow.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/im_dot_unselect.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/im_dot_unselect.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_discovery_selected.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_discovery_selected.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/default_ptr_flip.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/im_dot_select.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/im_dot_select.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/messaging.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/messaging.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/default_ptr_rotate.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_contanct_selected.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_contanct_selected.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_contanct.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_contanct.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_message_selected.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_message_selected.png"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-mdpi/main_footer_discovery.png",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-mdpi/main_footer_discovery.png"
+    }
+]

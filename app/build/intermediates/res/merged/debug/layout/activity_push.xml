@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+    android:orientation="vertical" >
+    
+    <include
+        android:id="@+id/imbase_titlebar"
+        layout="@layout/imbase_titlebar" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="25dp"
+        android:paddingTop="25dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40px"
+            android:text="标题："/>
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/pushTitle"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:paddingLeft="22dp"
+        android:paddingRight="25dp"
+        android:paddingTop="5dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40px"
+            android:text="接收：" />
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textAlignment="center"
+            android:id="@+id/spinner"
+
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingRight="25dp"
+        android:orientation="horizontal"
+        android:paddingTop="5dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="40px"
+            android:text="内容：" />
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="217dp" >
+
+            <EditText
+                android:id="@+id/pushMessage"
+                android:layout_width="fill_parent"
+                android:layout_height="217dp"
+                android:background="@drawable/bg_white"
+                android:gravity="top"
+                android:maxLength="30"
+                android:padding="8dip"
+                android:textColor="#666666"
+                android:textSize="18sp" >
+                <requestFocus />
+            </EditText>
+
+            <ImageView
+                android:id="@+id/iv_delete_push"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_margin="20dp"
+                android:src="@drawable/bianjiziliao_delete" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/iv_delete_push"
+                android:layout_toLeftOf="@id/iv_delete_push" >
+
+                <TextView
+                    android:id="@+id/addmood_count_push"
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="0"
+                    android:textColor="#666666"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:text="/255"
+                    android:textColor="#666666"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingTop="30dp"
+        android:paddingLeft="230dp"
+        android:paddingRight="25dp">
+        <Button
+            android:layout_width="250px"
+            android:id="@+id/surePush"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="0dp"
+            android:text="发  布"
+            android:textSize="45px"
+            />
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

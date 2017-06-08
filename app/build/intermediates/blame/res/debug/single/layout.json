@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_push_count.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_push_count.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_delete.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_delete.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_jiaowu.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_jiaowu.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/time_line_left.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/time_line_left.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_popupwindow.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_popupwindow.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_upload.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_upload.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/act_image_choose.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/act_image_choose.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/fragment_around2.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/fragment_around2.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_renmian.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_renmian.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/tt_chatview_item_custom_view_2.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/tt_chatview_item_custom_view_2.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_invite.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_invite.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/time_line_middle.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/time_line_middle.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/layout_line.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/layout_line.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_bucket_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_bucket_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_image_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_image_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/im_chatview_image.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/im_chatview_image.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_addyue.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_addyue.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_manage.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_manage.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_around.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_around.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_choosephoto.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_choosephoto.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/im_chatview_item_chatting.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/im_chatview_item_chatting.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/listview_refresh_footer.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/listview_refresh_footer.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_search_merchant.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_search_merchant.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_sign.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_sign.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_add_review.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_add_review.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_member_of_club.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_member_of_club.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_merchant.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_merchant.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_gender.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_gender.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_create_club.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_create_club.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_choose_date.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_choose_date.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/notify_status_bar_latest_event_view.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/notify_status_bar_latest_event_view.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_manage.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_manage.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_modify_password.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_modify_password.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_yonghu_modifypassword.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_yonghu_modifypassword.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/act_image_bucket_choose.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/act_image_bucket_choose.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_around.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_around.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_contacts_list_head.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_contacts_list_head.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/time_line_right.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/time_line_right.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/grid_item.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/grid_item.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_document.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_document.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_deletedocu.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_deletedocu.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_spinner.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_spinner.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_addcontact.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_addcontact.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_memberoperater.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_memberoperater.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_sort_contact.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_sort_contact.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_department.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_department.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/fragment_contacts.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/fragment_contacts.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_radarmap.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_radarmap.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/fragment_messages.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/fragment_messages.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/list_dir_item.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/list_dir_item.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_task_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_task_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_jiaowu.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_jiaowu.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_review.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_review.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_task.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_task.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/city_picker.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/city_picker.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_groupinfo_user.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_groupinfo_user.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_task.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_task.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_review.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_review.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_radartablayout.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_radartablayout.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_region.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_region.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_headerandname.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_headerandname.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/listview_refresh_header.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/listview_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/im_emotion_pager_classical_item.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/im_emotion_pager_classical_item.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_searchandmakegroup.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_searchandmakegroup.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_document.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_document.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_user.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_user.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_group.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_group.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_del.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_del.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_add_club_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_add_club_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_nickname.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_nickname.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_myprofile.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_myprofile.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/list_dir.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/list_dir.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_publish.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_publish.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_add_club.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_add_club.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_group_search_member.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_group_search_member.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/im_voice_rcd_dialog.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/im_voice_rcd_dialog.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/imbase_titlebar.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/imbase_titlebar.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_radarlist.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_radarlist.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/view_tips.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/view_tips.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_shangchuan.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_shangchuan.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/custom_radio_button.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/custom_radio_button.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_community_manage.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_community_manage.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_community_get_topic_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_community_get_topic_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_push.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_push.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/tt_chatview_item_custom_view.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/tt_chatview_item_custom_view.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/listview_footer.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/listview_footer.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/view_tips_loading.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/view_tips_loading.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/date_picker.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/date_picker.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/member_club_items.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/member_club_items.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_pushlist.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_pushlist.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/act_zoom.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/act_zoom.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_push_detail.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_push_detail.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/base_titlebar.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/base_titlebar.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/im_custom_imagebutton.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/im_custom_imagebutton.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/fragment_around.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/fragment_around.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/baidumap.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/baidumap.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_groupinfo.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_groupinfo.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_creat_topic.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_creat_topic.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_loading.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_loading.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/notify_status_bar_latest_event_content_large_icon.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/notify_status_bar_latest_event_content_large_icon.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/yuewan_item.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/yuewan_item.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_club.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_club.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_department_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_department_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_webview.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_webview.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/demo_info_item.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/demo_info_item.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_push_list.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_push_list.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/dialog_tuichu.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/dialog_tuichu.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/activity_yonghu_zhuce.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/activity_yonghu_zhuce.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/fragment_mine.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/fragment_mine.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_tab.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_tab.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/jiaowu_item.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/jiaowu_item.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/item_document.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/item_document.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/layout/im_chatview.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/layout/im_chatview.xml"
+    }
+]

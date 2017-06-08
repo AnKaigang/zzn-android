@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="menu_text_normal">#999999</color>
+    <color name="menu_text_selected">#45C01A</color>
+    <color name="black_light">#CCCCCC</color>
+    <color name="mm_list_focus">#06bf04</color>
+    <color name="mm_list_red">#ee524d</color>
+    <color name="titile_red">#CB3315</color>
+    <color name="view_bg">#F3F3F3</color>
+    <color name="light_gray">#99a4b7</color>
+    <color name="plus_menu">#666565</color>
+    <color name="bg_gray">#e1e1e1</color>
+    <color name="window_bg">#ffeef1f3</color>
+    <color name="transparent">#00000000</color>
+    <color name="blank_color">#ff999999</color>
+    <color name="Grey">#BEBEBE</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="transparent2">#FFD306</color>
+    <color name="silver">#00ffffff</color>
+    <color name="darkgray">#808080FF</color>
+    <color name="red">#FE2E2E</color>
+    <color name="ltgray">#4B8A08</color>
+    <color name="pressed">#fff22fff</color>
+    <color name="selected">#fff33fff</color>
+    <color name="focused">#ffff44ff</color>
+    <color name="dimgrey">#696969</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="floralwhite">#FFFAF0</color>
+    <color name="grey">#808080</color>
+    <color name="light_blue">#87d0f2</color>
+    <color name="deep_gray">#394257</color>
+    <color name="border_gray">#d9dfe5</color>
+    <color name="btn_gray">#d1d1d1</color>
+</resources>

@@ -1,0 +1,57 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    compileSdkVersion 19
+    buildToolsVersion '25.0.3'
+
+    defaultConfig {
+        applicationId "com.imsdk.imdeveloper"
+        minSdkVersion 8
+        multiDexEnabled true
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    sourceSets {
+        main { jniLibs.srcDirs = ['libs']
+        }
+    }
+}
+
+dependencies {
+//    compile files('libs/android-async-http-1.4.8.jar')
+//    compile files('libs/baidumapapi_base_v3_6_1.jar')
+//    compile files('libs/baidumapapi_map_v3_6_1.jar')
+//    compile files('libs/baidumapapi_radar_v3_6_1.jar')
+//    compile files('libs/baidumapapi_util_v3_6_1.jar')
+//    compile files('libs/IMSDK_1.4.1.jar')
+//    compile files('libs/locSDK_6.13.jar')
+//    compile files('libs/nineoldandroids-2.4.0.jar')
+//    compile files('libs/pushservice-4.5.6.88.jar')
+//    compile files('libs/universal-image-loader-1.9.3-with-sources.jar')
+        compile files('libs/android-async-http-1.4.8.jar')
+//        compile files('libs/IMSDK_1.3.9.jar')
+        compile files('libs/nineoldandroids-2.4.0.jar')
+        compile files('libs/universal-image-loader-1.9.3-with-sources.jar')
+        compile files('libs/pushservice-4.5.6.88.jar')
+//        compile files('libs/commons-collections-3.2.jar')
+//        compile files('libs/commons-lang-2.5.jar')
+//        compile files('libs/ezmorph-1.0.6.jar')
+//        compile files('libs/json-lib-2.1.jar')
+        compile files('libs/baidumapapi_base_v3_6_1.jar')
+//        compile files('libs/baidumapapi_cloud_v3_6_1.jar')
+        compile files('libs/baidumapapi_map_v3_6_1.jar')
+        compile files('libs/baidumapapi_radar_v3_6_1.jar')
+//        compile files('libs/baidumapapi_search_v3_6_1.jar')
+        compile files('libs/baidumapapi_util_v3_6_1.jar')
+        compile files('libs/locSDK_6.13.jar')
+        compile 'com.android.support:support-v4:19.1.0'
+        compile 'com.google.code.gson:gson:2.2.4'
+        compile files('libs/IMSDK_1.4.1.jar')
+}

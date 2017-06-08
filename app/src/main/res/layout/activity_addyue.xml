@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <Button
+            android:id="@+id/btn_back"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="取消"
+            android:textColor="#06bf04"
+            android:background="@null"
+            android:textSize="18sp" />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/yuewan_edit"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edit_text_holo_light"
+                android:hint="请输入约玩信息"
+                android:singleLine="true"
+                android:padding="8dp" />
+
+
+            <EditText
+                android:id="@+id/address_edit"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edit_text_holo_light"
+                android:hint="请输入地点"
+                android:singleLine="true"
+                android:padding="8dp" />
+
+            <EditText
+                android:id="@+id/re_register_passwd_edit"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edit_text_holo_light"
+                android:hint="请输入约玩时间"
+                android:singleLine="true"
+                android:padding="8dp" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/yuewan_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_denglu"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="立即发起"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+</RelativeLayout>

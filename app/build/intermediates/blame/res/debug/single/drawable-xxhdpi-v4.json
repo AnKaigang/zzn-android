@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/image_selected.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/image_selected.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edit_cursor.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/edit_cursor.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/custom_progressbar.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/custom_progressbar.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_confirm.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/btn_confirm.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/btn_select.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/btn_select.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_edittext.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/bg_edittext.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_edittext_focused.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/bg_edittext_focused.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/bg_edittext_normal.xml",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/bg_edittext_normal.xml"
+    },
+    {
+        "merged": "/Users/akgang/Downloads/iyanda/iyanda-android/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/yuewanbg.jpg",
+        "source": "/Users/akgang/Downloads/iyanda/iyanda-android/app/src/main/res/drawable-xxhdpi/yuewanbg.jpg"
+    }
+]

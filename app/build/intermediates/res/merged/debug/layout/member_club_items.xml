@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:clickable="false"
+    android:gravity="center_vertical"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/item_sort_contact_user_layout"
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:background="@drawable/mm_listitem"
+        android:clickable="true"
+        android:gravity="center_vertical" >
+
+        <com.imsdk.imdeveloper.ui.view.RoundedCornerImageView
+            android:id="@+id/pHeader"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/news_head_man" />
+
+        <TextView
+            android:id="@+id/name_club"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/pHeader"
+            android:layout_centerVertical="true"
+            android:padding="7dp"
+            android:text="小黑"
+            android:textColor="#000" />
+        <TextView
+            android:id="@+id/name_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/name_club"
+            android:layout_centerVertical="true"
+            android:padding="7dp"
+            android:text="小黑"
+            android:textColor="#000" />
+        <Button
+            android:id="@+id/operater"
+            android:layout_marginLeft="220dp"
+            android:layout_width="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_denglu"
+            android:textSize="15dp"
+            android:padding="8dp"
+            android:text="操作" />
+        <Button
+            android:id="@+id/delete"
+            android:layout_marginLeft="300dp"
+            android:layout_width="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_del"
+            android:textSize="15dp"
+            android:padding="8dp"
+            android:text="删除" />
+
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#dddddd"/>
+
+</LinearLayout>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/imbase_titlebar"
+        layout="@layout/imbase_titlebar" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="64dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="15dp"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/renmian_user_edit"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edit_text_holo_light"
+                android:hint="请输入成员ID"
+                android:singleLine="true"
+                android:padding="8dp" />
+
+
+            <EditText
+                android:id="@+id/section_edit"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/edit_text_holo_light"
+                android:hint="请输入要加入的部门"
+                android:singleLine="true"
+                android:padding="8dp" />
+
+            <RadioGroup
+                android:id="@+id/renmian_Radiogroup"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+                <!--<RadioButton-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:id="@+id/mananger_btn"-->
+                    <!--android:text="管理层"-->
+                    <!--android:layout_gravity="left"-->
+                    <!--android:layout_height="wrap_content" />-->
+                <RadioButton
+                    android:id="@+id/renmian_chairman_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="主席" />
+                <RadioButton
+                    android:id="@+id/renmin_minister_btn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:text="部长" />
+
+                <RadioButton
+                    android:layout_width="wrap_content"
+                    android:id="@+id/renmian_buyuan_btn"
+                    android:layout_marginRight="1dp"
+                    android:text="部员"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right" />
+            </RadioGroup>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/renmian_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/btn_denglu"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:padding="8dp"
+        android:text="决策"
+        android:textColor="#ffffff" />
+
+</LinearLayout>
